@@ -1,6 +1,3 @@
 # Important
 
-## 17 / Mar / 2026 - SkipQ Hanshow Device
-- [ ] Pickup the device date and time.
-- [ ] Help Buttons
-- [ ] Syncing 
+## [17 / Mar / 2026](./2026-03-17.md)
