@@ -5,32 +5,40 @@
 1. fGgYft6S2YWfJYHh_DoA3lYzMXlDUT09 | testnewcandidates@yopmail.com
 2. NxlcdXqk6_5NyT30iZeiyGF4VU5CQT09 | candidatetest@yopmail.com
 
-## Bussiness (local)
+## Bussiness (live)
  testmehakprologic@yopmail.com
+
+## Total modification count: 9 screens. (Time: 58 | Days: 6)
+	1. Bussiness Dashboard 2 hr
+	2. Candidate Referral Form TBD
+	3. OutSourcing Request Form* 8 hr
+	4. Backend Support Form* 8 hr
+	5. OutSourcing Request List* 8 hr
+	6. Backend Support List* 8 hr
+	7. Bussiness Referral Form* 8 hr
+	8. Bussiness Referral List* 8 hr
+	9. Candidate Referral List TBD
 ---
 
-## Yet to do:
+## [X] Yet to do:
 
-### 1. Candidate Dashboard - Confirmed
+### 1. [X] Candidate Dashboard - Confirmed
 Apply complete profile check to enable preinterview and verify options to the candidate.
 
 <img src='./CandidateHome.png' width="300" height="650" />
 
 
-### 2. Cadidate Job Details - Confirmed
+### 2. [X] Candidate Job Details - Confirmed
 Adding a (__condition( job.id == '1' )[on cadidate's subscription bases]__) check over jobs list for showing the more or less details (Phone number only) to the candidate.
 
 <img src='./JobsList.png' width="300" height="650" />
 <img src='./JobDetails.png' width="300" height="650" />
-
-### 3.
 ---
 
 ## Service Request - closed
-
 ---
 
-## Create referal form for both businessman and candidate (Remove previous referal functionality) and show listing and removal of Referral from Candidate flow
+## I. Create referal form for both businessman and candidate (Remove previous referal functionality) and show listing and removal of Referral from Candidate flow
 
 ### 1. Referral button (for navigation)
 
@@ -45,10 +53,10 @@ Adding a (__condition( job.id == '1' )[on cadidate's subscription bases]__) chec
 <img src='./ReferralList.png' width="600" height="300" />
 
 
-## Create outsourcing and backend support form for tax profession businessman and show its listing in businessman module (Tax Profession ) - Remove Service Request feature.
+## II. Create outsourcing and backend support form for tax profession businessman and show its listing in businessman module (Tax Profession ) - Remove Service Request feature.
 
 
-### 1. Businessman Dashboard :
+### 1. Businessman Dashboard : (state)businessprofession === Tax Professional ; Showing options like
 <img src='./businessmanHome.png' width="600" height="300" />
 
 
