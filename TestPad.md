@@ -1,0 +1,3 @@
+# Razorpay Keys
+RAZORPAY_KEY_TEST=rzp_test_fyLLvd629ecPYL
+RAZORPAY_KEY_LIVE=rzp_test_SscupgfFN7G4uXL

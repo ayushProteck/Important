@@ -1,0 +1,19 @@
+# Current Issuses[Since: April / 10 / 2026]:
+
+1. (BUG) On item added without scan --> Asking user for what have you added --> user selected I have added a product --> for product not found it is openning modal for item scanned with previously scanned item not the current one(as product is not found).
+
+2. (ENHANCEMENT) Clearing the previous chain details (like proof path, previous scanned item etc.) once the chain is clear.
+
+3. (BUG) Prices are not in 2 decimal places.
+
+4. (BUG) Dollar sign is showing instead of Diram
+
+5. (BUG) On logout or session end of the cart we are not deleting the proofs --> use `{event: "deleteSessionProof"}`[5.1.19 Delete all proof resources] for deleting all proofs from the device.
+
+6. ✓ (BUG) On item removal anomally flow - when user comes in adjust quantity modal , user is able to confirm without adjust the quantity of the product.
+
+7. (BUG) On item removal anomally flow - when user selects `I have removed a product` and the user selects the removed product via scanning or from the list , and comes in adjust quantity modal , on confiming the quantity, the event which is passed to the api is of add product and the tag is bulkDrop. , 
+
+8. ✓ (BUG) Scanner is getting closed when we are contining shopping after the staff dashboard.
+
+9. (BUG) In Staff Dashboard, 
