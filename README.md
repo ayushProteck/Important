@@ -1,7 +1,16 @@
 # Important
 
-## (17 / Mar / 2026)(./2026-03-17.md)
-## (18 / Mar / 2026)(./2026-03-18.md)
+---
+
+## Current going on:
+
+[Minimigiri](./Munimigiri)
+
+
+---
+
+## [17 / Mar / 2026](./2026-03-17.md)
+## [18 / Mar / 2026](./2026-03-18.md)
 
 Events flow:-
 
