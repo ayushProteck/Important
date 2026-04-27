@@ -8,16 +8,14 @@
 ## Bussiness (live)
  testmehakprologic@yopmail.com
 
-## Total modification count: 9 screens. (Time: 58 | Days: 6)
+## Total modification count: 8 screens. (Time: 50 | Days: 6.25)
 	1. Bussiness Dashboard 2 hr
-	2. Candidate Referral Form TBD
 	3. OutSourcing Request Form* 8 hr
 	4. Backend Support Form* 8 hr
 	5. OutSourcing Request List* 8 hr
 	6. Backend Support List* 8 hr
-	7. Bussiness Referral Form* 8 hr
-	8. Bussiness Referral List* 8 hr
-	9. Candidate Referral List TBD
+	7. Common Referral Form* 8 hr
+	8. Common Referral List* 8 hr
 ---
 
 ## [X] Yet to do:
@@ -37,6 +35,8 @@ Adding a (__condition( job.id == '1' )[on cadidate's subscription bases]__) chec
 
 ## Service Request - closed
 ---
+## Discussion points:
+
 
 ## I. Create referal form for both businessman and candidate (Remove previous referal functionality) and show listing and removal of Referral from Candidate flow
 
@@ -73,3 +73,4 @@ Adding a (__condition( job.id == '1' )[on cadidate's subscription bases]__) chec
 
 ### 5. backend list - showing the list of backend form details filled by the user.
 <img src='./BackendSupportList.png' width="600" height="300" alt="Backend Support List" />
+
