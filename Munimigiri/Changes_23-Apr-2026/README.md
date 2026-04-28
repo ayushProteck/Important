@@ -49,14 +49,12 @@ Adding a (__condition( job.id == '1' )[on cadidate's subscription bases]__) chec
 ### 2. ✅ Referral Form - after successfull submittion user will go to referral list.
 
 <img src='./ReferralForm.png' width="600" height="300" />
+<img src='./ReferralFormMobile.png' width="300" height="700" />
 
 ### 3. ✅ Referral List
 
 <img src='./ReferralList.png' width="600" height="300" />
-
-`
-What left is putting the referral forms and list in candidate screens as well.
-`
+<img src='./ReferralListMobile.png' width="300" height="700" />
 
 
 ## II. Create outsourcing and backend support form for tax profession businessman and show its listing in businessman module (Tax Profession ) - Remove Service Request feature.
@@ -69,17 +67,20 @@ What left is putting the referral forms and list in candidate screens as well.
 
 ### 2. ✅ Outsourcing Form - with some prefilled detials from profile api - after successfull submittion user will go to outsourcing list.
 <img src='./OutSourcingForm.png' width="600" height="300" />
-
+<img src='./OutsourcingFormMobile.png' width="300" height="700" />
 
 ### 3. ✅ Outsourcing list - showing the list of outsourcing form details filled by the user.
 <img src='./OutsourcingList.png' width="600" height="300" />
+<img src='./OutsourcingListMobile.png' width="300" height="700" />
 
 ### 4. ✅ backend support form - with with some prefilled detials from profile api
 <img src='./BackendSupportForm.png' width="600" height="300" />
 <img src='./BackendSupportForm-with-other-software-fields.png' width="600" height="300" />
+<img src='./BackendSupportFormMobile1.png' width="300" height="700" />
+<img src='./BackendSupportFormMobile2.png' width="300" height="700" />
 
 ### 5. ✅ backend list - showing the list of backend form details filled by the user.
 <img src='./BackendSupportList.png' width="600" height="300" alt="Backend Support List" />
-
+<img src='./BackendSupportListMobile.png' width="300" height="700" alt="Backend Support List" />
 
 ### 6. ✅ Businessman Profile edit form - Disable the select profession field when the profession is already their
