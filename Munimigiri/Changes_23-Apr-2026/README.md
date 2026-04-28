@@ -14,9 +14,9 @@
 	3. [X] Backend Support Form* 8 hr
 	4. [X] OutSourcing Request List* 8 hr
 	5. [X] Backend Support List* 8 hr
-	6. [ ] Common Referral Form* 8 hr
-	7. [ ] Common Referral List* 8 hr
-	8. [ ] businessman profile form - validation for diabling the profession drop down.
+	6. [X] Common Referral Form* 8 hr
+	7. [X] Common Referral List* 8 hr
+	8. [X] businessman profile form - validation for diabling the profession drop down.
 ---
 
 ## [X] Yet to do:
@@ -81,4 +81,5 @@ What left is putting the referral forms and list in candidate screens as well.
 ### 5. [X] backend list - showing the list of backend form details filled by the user.
 <img src='./BackendSupportList.png' width="600" height="300" alt="Backend Support List" />
 
-### 6. Businessman Profile edit form - Disable the select profession field when the profession is already their
+
+### 6. [X] Businessman Profile edit form - Disable the select profession field when the profession is already their
