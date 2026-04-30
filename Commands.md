@@ -9,7 +9,7 @@ for running emulated device while it's gpu is off
 > emulator -avd New_Device_2 -gpu off -no-snapshot -no-boot-anim
 for running emulated device while it's gpu is off and without boot animation.
 
-> emulator -avd Pixel_6a -gpu off -no-snapshot -no-boot-anim
+> [emulator -avd Pixel_6a -gpu off -no-snapshot -no-boot-anim](emulator -avd Pixel_6a -gpu off -no-snapshot -no-boot-anim)
 
 > getVisibleProductsNumInCart
 
