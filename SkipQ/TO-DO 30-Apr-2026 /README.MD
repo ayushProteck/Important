@@ -414,9 +414,19 @@
 ### Tasks
 
 	1. R&D for third party library to get device's details like:
-		a. RAM usage
-		b. CPU Usage
-		c. Battery Status
-		d. Device Health
+		a. Battery Status in percentage
+		b. CPU Usages Status in percentage
+		c. Memory Usages Status in percentage
+		d. Storage Usage Status in percentage
+		e. Temperature in Celcius
+		f. WIFI Connection Status - Good | Bad
+		g. Peripherals status 
+			i. Camera - On | Off
+			ii. Scale - Ok | Not Ok
+			iii. Printer - Ok | Not Ok*
+		h. Network Details
+			i. Status - Online | Offline
+			ii. Signal Strength - in dBm
+			iii. IP address - IPv4
 
 <img src="./DeviceDetailsDashboard.png" width="1080" heigth="320" />
