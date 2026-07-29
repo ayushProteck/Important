@@ -63,3 +63,8 @@
 | ⏳ Pending Tasks | **2** |
 | 🚫 Blocked Features | **2** |
 ```
+
+## Issues in Project
+
+- Tanstack not handled properly
+- Redux usage is atomic, not storing full state.
