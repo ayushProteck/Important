@@ -4,7 +4,28 @@
 
 **Description -** 
 
-This is for the users who are the patient of the hospitals, where patient and all the staff members are connected with one epic ID for managing their data in that hospital
+This is for the users who are the patient of the hospitals, where patient and all the staff members are connected with one epic ID for managing their data in that hospital.
+
+### Libraries used -
+
+```JSON
+
+```
+
+### Basic App Setup -
+
+Create React Native Project
+Setup Navigation
+Setup Global States
+Setup APIs
+Planned theme architecture for scalable UI development
+Splash Screen
+App Logo setup
+Firebase setup
+Push Notifications Setup and Socket Implemetation
+Prototype workflow
+
+
 
 ### Modules
 
@@ -21,17 +42,17 @@ This is for the users who are the patient of the hospitals, where patient and al
 
 #### B. Book Appointment:
 
-1. **Doctor Section -** Patient can select the Doctors as shown in the list or carousel, and can filter the details of them by their speciality, Ratings, Price Range and spoken Language,
+1. **Doctor Selection -** Patient can select the Doctors as shown in the list or carousel, and can filter the details of them by their speciality, Ratings, Price Range and spoken Language,
 
 Here doctors will be shown with their profile containing details like: Profile Image, Name, Ratings with number of reviews, experience in years, Consultation Fee per session, and their field of speciality.
 
 2. **Selecting the type of consultation -** Consultation can be of two types 1. Initial Consultation, 2. Follow up Consultation
 	
-	a. Initial Consultation - The time of consultation is of 60 minutes and the purpose of this is for when patient is having their first consultation with the patient for their treatment and since the time is more the doctors can charge more for it.
+	a. **Initial Consultation** - The time of consultation is of 60 minutes and the purpose of this is for when patient is having their first consultation with the patient for their treatment and since the time is more the doctors can charge more for it.
 
-	b. Follow Up Consultation - The time of consultation is 30 minutes and the purpose of this is that it the consultation doctor to have a regular check with their patients that they taking their medication properly and the way their health is goingand since the time is only half an less the charge will be less as well.
+	b. **Follow Up Consultation** - The time of consultation is 30 minutes and the purpose of this is that it the consultation doctor to have a regular check with their patients that they taking their medication properly and the way their health is goingand since the time is only half an less the charge will be less as well.
 
-3. **Slot Selection -** Here patient will be shown the available slots of the doctor accordingly to the consultation type they have selected. First they will select the day and then the slots for that day shown to them, from which they can select the time most favorable to them.
+3. **Time Slot Selection -** Here patient will be shown the available slots of the doctor accordingly to the consultation type they have selected. First they will select the day and then the slots for that day shown to them, from which they can select the time most favorable to them.
 
 4. **Payment -** Here user will show the payment options using stripe, like pay using card details, or via google pay etc(what ever is available in stripe).
 
@@ -52,6 +73,10 @@ Here doctors will be shown with their profile containing details like: Profile I
 2. **Change Password -** Here patient can change their password using their current password, then new password and lastly confirm password.
 
 3. **Epic Account -** Here patient can check their status of their connection of the application account with epic account. On click , if user is not connected to the epic account, will be navigated to the Epic Login(as mentioned in Authentication Module).
+
+4. **Logout -** Patient can logout their account from the application.
+
+5. **Delete Account -** Patient can delete their account from the platform.
 
 #### E. Medical History:
 
